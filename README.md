@@ -1,2 +1,2 @@
 # streaming-service
-Small project using c++.
+This is a small project using c++ with the main function of practicing using vectors. The user inputs which streaming services they would like to "subscribe" to, the shows they would like to add to their watchlist, and the monthly cost of each streaming service. This information is stored in their respective vectors. Their total bill, watchlist, and subscribed services are output to the user. 
